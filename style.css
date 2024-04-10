@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.head{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.one,.two,.three{
+    display: inline;
+    color: gray;
+    cursor: pointer;
+}
+.one:hover{
+    color: white;
+}
+.two:hover{
+    color: white;
+}
+.three:hover{
+    color: white;
+}
+.A{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    width: 250px;
+    display: inline-block;
+}
+
+.product{
+    text-align: center;
+}
+.A:hover{
+    color: white;
+    background-color: black;
+}
+.contact{
+    color: white;
+    background-color: black;
+    margin-top: 100px;
+    
+    
+}
+
